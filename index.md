@@ -3,7 +3,8 @@
 **Contact Information**  
 - **Phone:** +7 (747) 8494851  
 - **Email:** [ostroverkhovbogdan@gmail.com](mailto:ostroverkhovbogdan@gmail.com)  
-- **Location:** Temirtau, Kazakhstan  
+- **Location:** Temirtau, Kazakhstan
+- **Telegram:** [@big_bad_d](https://t.me/big_bad_d) 
 
 ---
 
@@ -92,9 +93,8 @@ Experienced copywriter with a strong background in writing for IT companies, edu
 - **Languages:** Russian (Native), English (B2 — Upper-Intermediate)  
 - **Writing & Editing:** Literacy, Writing texts, Editing, Proofreading, Writing articles  
 - **Technical Skills:** Python (completed beginner and advanced courses), Figma (prototyping and simple illustrations)  
-- **AI Tools:** Midjourney, ChatGPT  
-- **CMS:** WordPress  
-- **Other:** Searching for information on the Internet, Collecting and analyzing information  
+- **AI Tools:** Midjourney, ChatGPT   
+- **Other:** Searching for information on the Internet, collecting and analyzing information  
 
 ---
 
